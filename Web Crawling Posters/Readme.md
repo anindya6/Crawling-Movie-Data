@@ -1,1 +1,1 @@
-This folder has a 100 example posters you can have a look at. Contact me if you want the full dataset of 10000 posters. Or you can use the supplied python codes to crawl them yourself!
+This folder has a 100 example posters you can have a look at. Go here for the dataset of all posters: https://drive.google.com/drive/folders/0B3N091jZplDpaXRmRi01N1JsQXc?usp=sharing. Or you can use the supplied python scripts to crawl them yourself!
